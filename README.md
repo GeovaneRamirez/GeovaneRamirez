@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeovaneRamirez
-- 👀 I’m interested in becaming a software developpment
+- 👀 I’m interested in becaming a software development
 - 🌱 I’m currently learning how to program in C, Phyton and Java Script
 - 💞️ I’m looking to collaborate on developing new sistems and helping with older programs
 - 📫 How to reach me:
