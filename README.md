@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeovaneRamirez
-- 👀 I’m interested in becaming a software development
-- 🌱 I’m currently learning how to program in C, Phyton, Java and Java Script
-- 💞️ I’m looking to collaborate on developing new sistems and helping with older programs
+- 👀 I’m interested in becaming a Full Stack developer.
+- 🌱 I’m currently learning how to program in C, Phyton, Java, HTML, PHP, CSS and Java Script.
+- 💞️ I’m looking to collaborate on developing new sistems and helping with older softwares.
 - 📫 How to reach me:
 -   by e-mail: geovanesilvaramirez@hotmail.com
 -   by mobile: +55 19 98226-6201
